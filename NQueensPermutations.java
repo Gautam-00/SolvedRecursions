@@ -25,3 +25,5 @@ public class QueenPermutation {
 }
 
 // fst queen bitha k us position ko mark krke baki queens bithane k liye recurssion ko dedo bss; q0 tu bithao at b1 and baki queens empty jageh pe all possible jageh pe recurssion bithai n combination 
+// jispe pehla qn bithae usko mark krna imp cz okra xod k baki pe bithaoge na next queens tw aage k calls fense ekra consider na kre chai oise; bki ekra pe fst bitha sari possibilities explore k baad
+// unmark(backtrack) krdo ki jb dosra pe fst qn bitahibe tw ekra pe dosar kno qn bith k create a diff permutation
