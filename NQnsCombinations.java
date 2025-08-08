@@ -15,7 +15,7 @@ public class QueenCombination {
 		for(int i=idx; i<board.length;i++){
 			if(!board[i]) {
 				board[i] = true;
-				Combination(board, tq, qpsf+1, ans+'b'+i+'q'+qpsf, idx+1);
+				Combination(board, tq, qpsf+1, ans+'b'+i+'q'+qpsf, i+1);
 				board[i]=false;
 			}
 		}
