@@ -25,4 +25,4 @@ public class QueenCombination {
 // n qns n box meh bara san tw kno qn kno v box meh hoko sb k same manna h cz its the same combination nu kno kenau rho;
 // isko implement krne k liye will maintain a index ki jaha tk hogail ba santh ganth okra aage se baki k combo bnao cz pixe wla leke aibe tw math kr jai cz
 // tora se paila jb pixe wla k pali rhe tb tora se combo bna leke ba already tw okre lge tu jake fen combo bnaibe tw same nikli oise maintained an index/
-// and make calls okra aage se
+// and make calls okra aage se;; jaha bari okra aage se bss combo bnaibe tw repeateds remove hojai;;
